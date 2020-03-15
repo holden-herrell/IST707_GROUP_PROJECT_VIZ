@@ -14,6 +14,6 @@
 
 <a href="https://holden-herrell.github.io/IST707_GROUP_PROJECT_VIZ/Geo_corruption.html">Geo Map - Corruption</a>
 
-<a href="https://holden-herrell.github.io/IST707_GROUP_PROJECT_VIZ/Geo_life.html.html">Geo Map - Life Expectancy</a>
+<a href="https://holden-herrell.github.io/IST707_GROUP_PROJECT_VIZ/Geo_life.html">Geo Map - Life Expectancy</a>
 
 <a href="https://holden-herrell.github.io/IST707_GROUP_PROJECT_VIZ/Geo_score.html">Geo Map - Happiness Score</a>
